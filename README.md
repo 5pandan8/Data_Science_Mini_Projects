@@ -1,6 +1,6 @@
-# 📂 Machine Learning Projects
+# 📂 Data Scinece Coursework Projects
 
-This repository contains several machine learning projects and homework assignments, covering data preprocessing, regression, classification, time series analysis, and model evaluation.
+This repository contains several Data Science projects I did as part of my coursework, covering data preprocessing, regression, classification, time series analysis, and model evaluation.
 
 ## 📑 Projects Index
 
